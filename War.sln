@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "War", "War\War.csproj", "{9F9DC289-9649-4F6C-90B3-FC4720548D3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "War", "War\War.csproj", "{9F9DC289-9649-4F6C-90B3-FC4720548D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarUnitTests", "WarUnitTests\WarUnitTests.csproj", "{9113D27A-9634-4321-B8BC-8F7FFE3FA021}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9F9DC289-9649-4F6C-90B3-FC4720548D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F9DC289-9649-4F6C-90B3-FC4720548D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F9DC289-9649-4F6C-90B3-FC4720548D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9113D27A-9634-4321-B8BC-8F7FFE3FA021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9113D27A-9634-4321-B8BC-8F7FFE3FA021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9113D27A-9634-4321-B8BC-8F7FFE3FA021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9113D27A-9634-4321-B8BC-8F7FFE3FA021}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

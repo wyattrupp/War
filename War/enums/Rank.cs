@@ -8,7 +8,6 @@ namespace War.enums
 {
     public enum Rank
     {
-        ace,
         one,
         two,
         three,
@@ -21,6 +20,7 @@ namespace War.enums
         ten,
         jack,
         queen,
-        king
+        king,
+        ace
     }
 }
